@@ -5,13 +5,11 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score
 import numpy as np
 import pandas as pd
-import xgboost as xgb
 import pickle
 from sklearn.preprocessing import LabelEncoder
-from sklearn.linear_model import Lasso, Ridge
+from sklearn.linear_model import Lasso
 
 lasso_model = Lasso(alpha=73.0)
-ridge_model = Ridge(alpha=73.0)
 
 """## Importing the dataset"""
 import sys
