@@ -17,7 +17,7 @@ Features includes:
 - Number of Bedrooms
 - Number of Bathrooms
 
-The Model is trained using Lasso Regression model. Lasso regression is a linear regression technique that incorporates regularization to improve the model's performance and prevent overfitting. It adds a penalty term to the cost function, which helps in shrinking the coefficients of less important features towards zero, effectively performing feature selection. It has an Adjusted R square value of 0.70267 which is considered good.
+The Model is trained using Lasso Regression model. Lasso regression is a linear regression technique that incorporates regularization to improve the model's performance and prevent overfitting. It adds a penalty term to the cost function, which helps in shrinking the coefficients of less important features towards zero, effectively performing feature selection. It has R squared value of 0.72282 and an Adjusted R square value of 0.70267 which is considered good.
 
 ## Demo
 
